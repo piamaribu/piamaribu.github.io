@@ -1,5 +1,14 @@
 body {
-    background-color: lightpink;
+    background-color:hsla(0,0%,0%,1);
+    background-image:
+    radial-gradient(at 13% 98%, hsla(315,49%,53%,0.81) 0px, transparent 50%),
+    radial-gradient(at 64% 95%, hsla(189,24%,27%,1) 0px, transparent 50%),
+    radial-gradient(at 40% 20%, hsla(256,34%,25%,0.81) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, hsla(189,54%,45%,1) 0px, transparent 50%),
+    radial-gradient(at 0% 50%, hsla(218,28%,63%,1) 0px, transparent 50%),
+    radial-gradient(at 80% 50%, hsla(279,61%,55%,1) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, hsla(201,24%,15%,1) 0px, transparent 50%),
+    radial-gradient(at 0% 0%, hsla(343,100%,76%,1) 0px, transparent 50%);
 }
 
 h1 {
